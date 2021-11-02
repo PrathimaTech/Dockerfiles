@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER devopstrainingblr@outlook.com
+MAINTAINER "muddulurumadhu007@gmail.com"
 
 RUN mkdir /opt/tomcat/
 
